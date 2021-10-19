@@ -1,3 +1,3 @@
 # Nx Starter
 
-Nx Starter template with extra features ✨
+Nx Starter template with extra features ✨.
