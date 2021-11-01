@@ -16,5 +16,7 @@ jobs:
         with:
           node-version: 14
       - run: npm ci
+      - run: npm run stylelint
       - run: npm run affected:lint
       - run: npm run affected:test
+      - run: npm run affected:build
