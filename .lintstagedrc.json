@@ -1,3 +1,4 @@
 {
-  "*.{html,css,scss,js,ts,jsx,tsx,json,md}": "prettier --write"
+  "*.{html,css,scss,js,ts,jsx,tsx,json,md}": "prettier --write",
+  "*.{css,scss,sass}": "stylelint --aei --fix"
 }
