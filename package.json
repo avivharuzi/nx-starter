@@ -18,9 +18,9 @@
   "devDependencies": {
     "@commitlint/cli": "^13.2.1",
     "@commitlint/config-conventional": "^13.2.0",
-    "@nrwl/cli": "13.1.2",
-    "@nrwl/tao": "13.1.2",
-    "@nrwl/workspace": "13.1.2",
+    "@nrwl/cli": "13.2.3",
+    "@nrwl/tao": "13.2.3",
+    "@nrwl/workspace": "13.2.3",
     "@types/node": "14.14.33",
     "commitizen": "^4.2.4",
     "git-cz": "^4.8.0",
