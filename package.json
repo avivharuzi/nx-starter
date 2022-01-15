@@ -1,7 +1,6 @@
 {
   "name": "nx-starter",
   "version": "0.0.0",
-  "license": "MIT",
   "scripts": {
     "stylelint": "stylelint **/*.{css,scss,sass} --aei",
     "affected:apps": "nx affected:apps",
