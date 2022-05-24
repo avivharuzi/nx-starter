@@ -1,5 +1,4 @@
 {
-  "*.{css,scss,sass}": "stylelint --aei --fix",
   ".": "prettier --write",
   "*.{ts,tsx,js,jsx}": "eslint --fix"
 }
